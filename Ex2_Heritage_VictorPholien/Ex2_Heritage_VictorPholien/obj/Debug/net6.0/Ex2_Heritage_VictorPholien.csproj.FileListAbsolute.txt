@@ -1,0 +1,4 @@
+C:\Users\180229\Desktop\Ex2_Heritage_VictorPholien\Ex2_Heritage_VictorPholien\obj\Debug\net6.0\Ex2_Heritage_VictorPholien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\180229\Desktop\Ex2_Heritage_VictorPholien\Ex2_Heritage_VictorPholien\obj\Debug\net6.0\Ex2_Heritage_VictorPholien.AssemblyInfoInputs.cache
+C:\Users\180229\Desktop\Ex2_Heritage_VictorPholien\Ex2_Heritage_VictorPholien\obj\Debug\net6.0\Ex2_Heritage_VictorPholien.AssemblyInfo.cs
+C:\Users\180229\Desktop\Ex2_Heritage_VictorPholien\Ex2_Heritage_VictorPholien\obj\Debug\net6.0\Ex2_Heritage_VictorPholien.csproj.CoreCompileInputs.cache
