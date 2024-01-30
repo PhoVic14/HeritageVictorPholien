@@ -1,0 +1,14 @@
+C:\Users\180229\Desktop\Ex3_Heritage_VictorPholien\Ex3_Heritage_VictorPholien\bin\Debug\net6.0\Ex3_Heritage_VictorPholien.exe
+C:\Users\180229\Desktop\Ex3_Heritage_VictorPholien\Ex3_Heritage_VictorPholien\bin\Debug\net6.0\Ex3_Heritage_VictorPholien.deps.json
+C:\Users\180229\Desktop\Ex3_Heritage_VictorPholien\Ex3_Heritage_VictorPholien\bin\Debug\net6.0\Ex3_Heritage_VictorPholien.runtimeconfig.json
+C:\Users\180229\Desktop\Ex3_Heritage_VictorPholien\Ex3_Heritage_VictorPholien\bin\Debug\net6.0\Ex3_Heritage_VictorPholien.dll
+C:\Users\180229\Desktop\Ex3_Heritage_VictorPholien\Ex3_Heritage_VictorPholien\bin\Debug\net6.0\Ex3_Heritage_VictorPholien.pdb
+C:\Users\180229\Desktop\Ex3_Heritage_VictorPholien\Ex3_Heritage_VictorPholien\obj\Debug\net6.0\Ex3_Heritage_VictorPholien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\180229\Desktop\Ex3_Heritage_VictorPholien\Ex3_Heritage_VictorPholien\obj\Debug\net6.0\Ex3_Heritage_VictorPholien.AssemblyInfoInputs.cache
+C:\Users\180229\Desktop\Ex3_Heritage_VictorPholien\Ex3_Heritage_VictorPholien\obj\Debug\net6.0\Ex3_Heritage_VictorPholien.AssemblyInfo.cs
+C:\Users\180229\Desktop\Ex3_Heritage_VictorPholien\Ex3_Heritage_VictorPholien\obj\Debug\net6.0\Ex3_Heritage_VictorPholien.csproj.CoreCompileInputs.cache
+C:\Users\180229\Desktop\Ex3_Heritage_VictorPholien\Ex3_Heritage_VictorPholien\obj\Debug\net6.0\Ex3_Heritage_VictorPholien.dll
+C:\Users\180229\Desktop\Ex3_Heritage_VictorPholien\Ex3_Heritage_VictorPholien\obj\Debug\net6.0\refint\Ex3_Heritage_VictorPholien.dll
+C:\Users\180229\Desktop\Ex3_Heritage_VictorPholien\Ex3_Heritage_VictorPholien\obj\Debug\net6.0\Ex3_Heritage_VictorPholien.pdb
+C:\Users\180229\Desktop\Ex3_Heritage_VictorPholien\Ex3_Heritage_VictorPholien\obj\Debug\net6.0\Ex3_Heritage_VictorPholien.genruntimeconfig.cache
+C:\Users\180229\Desktop\Ex3_Heritage_VictorPholien\Ex3_Heritage_VictorPholien\obj\Debug\net6.0\ref\Ex3_Heritage_VictorPholien.dll
